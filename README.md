@@ -28,9 +28,17 @@ src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="40
 src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="git" width="40" height="40"/> <img                                                      
 src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="git" width="40" height="40"/> <img                                                                                                                             
 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrzejd&layout=compact&hide=html" alt="jedrzejd" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jedrzejd&show_icons=true" alt="jedrzejd" /></p>
+
+### Pinned 🌵:
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)
 
 ### Connect with me:
 
