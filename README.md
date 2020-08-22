@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jędrzej</h1>
-<h3 align="center">I'm a young Data scientist</h3>
+<h3 align="center">I'm a freshman in computer science and a beginner data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
 
@@ -34,9 +34,9 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 ### Pinned 🌵:
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income)
 
 ### Connect with me:
 
