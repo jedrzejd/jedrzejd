@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jedrzejd](https://github.com/jedrzejd)
 
-- 🥅 2020 Goals: Changing the world for the better.
-
 - 📫 How to reach me **jedrzejdudzicz@gmail.com**
 
 - 🎸 Fun fact: I love playing the electric guitar
