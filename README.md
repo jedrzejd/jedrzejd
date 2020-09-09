@@ -33,7 +33,7 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 ### Pinned 🌵:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)\
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income)
 
