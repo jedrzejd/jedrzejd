@@ -17,17 +17,6 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-git-master.jedrzejd.vercel.app/api/spotify-playing" alt="Jędrzej Dudzicz Spotify Playing"  />](https://open.spotify.com/user/21ja5ga6vsss5vyrf4wyuvcmy)
 
-
-<p align="left">
-  <img
-src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img 
-src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img 
-src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="git" width="40" height="40"/> <img 
-src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="git" width="40" height="40"/> <img     
-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="git" width="40" height="40"/> <img                                                      
-src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="git" width="70" height="40"/> <img                                                                                                                             
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40"/></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrzejd&layout=compact&hide=html" alt="jedrzejd" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jedrzejd&show_icons=true" alt="jedrzejd" /></p>
