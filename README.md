@@ -26,6 +26,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income) 
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=flappybird)](https://github.com/jedrzejd/flappybird) 
 
 
 ### Connect with me:
