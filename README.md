@@ -30,7 +30,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income) 
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=flappybird)](https://github.com/jedrzejd/flappybird) 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=dw_matrix_road_sign)](https://github.com/jedrzejd/dw_matrix_road_sign) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis) 
 
 ### Connect with me:
 
