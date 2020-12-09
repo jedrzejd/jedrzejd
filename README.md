@@ -24,11 +24,13 @@
 ### Pinned 🌵:
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
-
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_detection)](https://github.com/jedrzejd/Covid_detection)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Mask-Detector)](https://github.com/jedrzejd/Mask-Detector)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income) 
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=flappybird)](https://github.com/jedrzejd/flappybird) 
-
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=dw_matrix_road_sign)](https://github.com/jedrzejd/dw_matrix_road_sign) 
 
 ### Connect with me:
 
