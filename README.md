@@ -31,6 +31,8 @@
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=flappybird)](https://github.com/jedrzejd/flappybird) 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis) 
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms) 
 
 ### Connect with me:
 
