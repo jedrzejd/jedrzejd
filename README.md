@@ -33,6 +33,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis) 
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Library)](https://github.com/jedrzejd/Library) 
 
 ### Connect with me:
 
