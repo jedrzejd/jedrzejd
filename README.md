@@ -31,11 +31,11 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Mask-Detector)](https://github.com/jedrzejd/Mask-Detector)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Adult_Income)](https://github.com/jedrzejd/Adult_Income) 
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=flappybird)](https://github.com/jedrzejd/flappybird) 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=scrap-otomoto)](https://github.com/jedrzejd/scrap-otomoto) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=cars_build_model)](https://github.com/jedrzejd/cars_build_model) 
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms) 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=scrap-otomoto)](https://github.com/jedrzejd/scrap-otomoto) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis)
 
     
 ### Connect with me:
