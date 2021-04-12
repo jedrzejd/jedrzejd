@@ -38,8 +38,8 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=CarPrice)](https://github.com/jedrzejd/CarPrice)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Dla-mnie-dzia-a)](https://github.com/jedrzejd/Dla-mnie-dzia-a)
 
-    
 ### Connect with me:
 
 <p align="center"> 
