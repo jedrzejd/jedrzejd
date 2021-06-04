@@ -60,6 +60,8 @@
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis)
 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=PO-semestr-2)](https://github.com/jedrzejd/PO-semestr-2)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Centrum-Lotow)](https://github.com/jedrzejd/Centrum-Lotow)
+   
    
 ## Connect with me:
 
