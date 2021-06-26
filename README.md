@@ -50,6 +50,9 @@
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=scrap-otomoto)](https://github.com/jedrzejd/scrap-otomoto) 
    
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=CarPrice)](https://github.com/jedrzejd/CarPrice)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Simple-Discord-Bot)](https://github.com/jedrzejd/Simple-Discord-Bot)
+   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Weather-Bot)](https://github.com/jedrzejd/Weather-Bot)
 
 
 ## Pinned School/University Projects🏫:
