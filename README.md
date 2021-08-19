@@ -7,8 +7,6 @@
 - 🇵🇱 I'm a first-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
 
 - 🌱 Currently, I'm learning everything about Machine Learning and Deep Learning.
-
-- ✨ Most of my projects so far are in NLP and CV. In the future, perhaps new fields.
     
 - 👨‍💻 All of my projects are available at [https://github.com/jedrzejd](https://github.com/jedrzejd)
 
