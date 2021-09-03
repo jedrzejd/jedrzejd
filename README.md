@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jędrzej</h1>
-<h2 align="center"> Computer Science Student 
+<h2 align="center"> Data Science Intern | Computer Science Student 
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
