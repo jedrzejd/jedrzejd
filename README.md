@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jędrzej</h1>
-<h2 align="center"> Computer Science Student | Beginner Data Scientist 
+<h2 align="center"> Computer Science Student 
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
 
-- 🇵🇱 I'm a first-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
+- 🇵🇱 I'm a second-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
 
 - 🌱 Currently, I'm learning everything about Machine Learning and Deep Learning.
     
