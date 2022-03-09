@@ -14,14 +14,6 @@
 
 - 🗻Hobby: Mountains Hiking, Cycling
 
-## Spotify Playing 🎧
-[<img src="https://novatorem-git-master.jedrzejd.vercel.app/api/spotify-playing" alt="Jędrzej Dudzicz Spotify Playing"  />](https://open.spotify.com/user/21ja5ga6vsss5vyrf4wyuvcmy)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedrzejd&layout=compact&hide=html" alt="jedrzejd" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jedrzejd&show_icons=true" alt="jedrzejd" /></p>
-
-
 ## Pinned ML/DL Projects🌵:
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=dw_matrix)](https://github.com/jedrzejd/dw_matrix) 
