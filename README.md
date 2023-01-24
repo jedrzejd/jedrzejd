@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
 
-- 🇵🇱 I'm a second-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
+- 🇵🇱 I'm a third-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
 
 - 🌱 Currently, I'm learning everything about Machine Learning and Deep Learning.
     
