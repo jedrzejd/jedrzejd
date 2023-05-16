@@ -33,6 +33,9 @@
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms) 
   
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=NeuralNetwork)](https://github.com/jedrzejd/NeuralNetwork) 
+  
+  
 
 ## Pinned Python Projects🎩:
    
@@ -56,6 +59,11 @@
 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=PO-semestr-2)](https://github.com/jedrzejd/PO-semestr-2)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Centrum-Lotow)](https://github.com/jedrzejd/Centrum-Lotow)
+   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Paragon)](https://github.com/jedrzejd/Paragon)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Quiz)](https://github.com/jedrzejd/Quiz)
+   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Il-tait-une-fo...-la-vie)](https://github.com/jedrzejd/Il-tait-une-fo...-la-vie)
    
    
 ## Connect with me:
