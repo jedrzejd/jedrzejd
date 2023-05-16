@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jędrzej</h1>
-<h2 align="center"> Data Science Intern | Computer Science Student 
+<h2 align="center"> Python Engineer | Computer Science Student 
 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
@@ -10,7 +10,7 @@
     
 - 👨‍💻 All of my projects are available at [https://github.com/jedrzejd](https://github.com/jedrzejd)
 
-- 📫 How to reach me **jedrzejdudzicz@gmail.com**
+- 📫 How to reach me **jedrzej012@gmail.com**
 
 - 🗻Hobby: Mountains Hiking, Cycling
 
