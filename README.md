@@ -31,8 +31,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Dla-mnie-dzia-a)](https://github.com/jedrzejd/Dla-mnie-dzia-a)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms) 
-  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms)   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=NeuralNetwork)](https://github.com/jedrzejd/NeuralNetwork) 
   
   
@@ -45,9 +44,10 @@
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=CarPrice)](https://github.com/jedrzejd/CarPrice)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Simple-Discord-Bot)](https://github.com/jedrzejd/Simple-Discord-Bot)
    
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Weather-Bot)](https://github.com/jedrzejd/Weather-Bot)
-   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Weather-Bot)](https://github.com/jedrzejd/Weather-Bot) 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Mario-Bros)](https://github.com/jedrzejd/Mario-Bros)
+   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=ToDoApp)](https://github.com/jedrzejd/ToDoApp)
 
 
 ## Pinned School/University Projects🏫:
