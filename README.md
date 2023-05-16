@@ -6,7 +6,7 @@
 
 - 🇵🇱 I'm a third-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
 
-- 🌱 Currently, I'm learning everything about Machine Learning and Deep Learning.
+- 🌱 Currently, I'm learning everything about Python a Deep Learning.
     
 - 👨‍💻 All of my projects are available at [https://github.com/jedrzejd](https://github.com/jedrzejd)
 
