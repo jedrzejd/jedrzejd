@@ -31,7 +31,7 @@
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Kaggle-Notebooks)](https://github.com/jedrzejd/Kaggle-Notebooks)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Dla-mnie-dzia-a)](https://github.com/jedrzejd/Dla-mnie-dzia-a)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms)   
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Machine_Learning_Algorithms)](https://github.com/jedrzejd/Machine_Learning_Algorithms)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=NeuralNetwork)](https://github.com/jedrzejd/NeuralNetwork) 
   
   
