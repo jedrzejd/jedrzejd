@@ -43,6 +43,8 @@
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Simple-Discord-Bot)](https://github.com/jedrzejd/Simple-Discord-Bot)
    
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Weather-Bot)](https://github.com/jedrzejd/Weather-Bot)
+   
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Mario-Bros)](https://github.com/jedrzejd/Mario-Bros)
 
 
 ## Pinned School/University Projects🏫:
