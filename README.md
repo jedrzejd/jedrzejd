@@ -58,8 +58,8 @@
    
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Face-Comparsion)]([https://github.com/jedrzejd/InstagramCloneApp](https://github.com/jedrzejd/Face-Comparsion))
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Drowsiness-Detection)](https://github.com/jedrzejd/Drowsiness-Detection)
-   
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Library)](https://github.com/jedrzejd/Library)
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=AmazonClone)](https://github.com/jedrzejd/AmazonClone)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Covid_Analysis)](https://github.com/jedrzejd/Covid_Analysis)
 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Paragon)](https://github.com/jedrzejd/Paragon)
@@ -70,6 +70,8 @@
    
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=segment-tree)](https://github.com/jedrzejd/segment-tree)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=My_Algorithmic_Tasks)](https://github.com/jedrzejd/My_Algorithmic_Tasks)
+
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Library)](https://github.com/jedrzejd/Library)
    
    
    
