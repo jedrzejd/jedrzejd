@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedrzejd" alt="jedrzejd" /> </p>
 
-- 🇵🇱 I'm a third-year computer science student at the Białystok University of Technology(Politechnika Białostocka).
+- 🇵🇱 I'm a final year computer science student at the Białystok University of Technology(Politechnika Białostocka).
 
-- 🌱 Currently, I'm learning everything about Python a Deep Learning.
+- 🌱 Currently, I'm learning everything about Python and NLP.
     
 - 👨‍💻 All of my projects are available at [https://github.com/jedrzejd](https://github.com/jedrzejd)
 
