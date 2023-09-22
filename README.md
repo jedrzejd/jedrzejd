@@ -18,14 +18,15 @@
    
    
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Otomoto-Scraper)](https://github.com/jedrzejd/Otomoto-Scraper) 
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=scrap-otomoto)](https://github.com/jedrzejd/scrap-otomoto) 
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=scrap-otomoto)](https://github.com/jedrzejd/scrap-otomoto)
 
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=FastAPI_ToDoApp)](https://github.com/jedrzejd/FastAPI_ToDoApp)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=ToDoApp)](https://github.com/jedrzejd/ToDoApp)
+   
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Mario-Bros)](https://github.com/jedrzejd/Mario-Bros)
-   
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=CarPrice)](https://github.com/jedrzejd/CarPrice)
+
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Simple-Discord-Bot)](https://github.com/jedrzejd/Simple-Discord-Bot)
-   
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=Weather-Bot)](https://github.com/jedrzejd/Weather-Bot) 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jedrzejd&repo=SampleStore)](https://github.com/jedrzejd/SampleStore)
 
